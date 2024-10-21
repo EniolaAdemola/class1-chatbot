@@ -71,7 +71,7 @@ Here’s how the user interface looks when running:
 ![DAVEWORLD Bot UI](./assets/interface.png)
 
 Example of the bot responding to a query:
-![Response Image](https://github.com/user-attachments/assets/response)
+![Response Image](./assets/response.png)
 
 ---
 
